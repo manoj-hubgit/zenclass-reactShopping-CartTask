@@ -1,0 +1,7 @@
+.addButton:hover{
+    background-color: rgb(21, 115, 71) !important;
+}
+
+.removeButton:hover{
+    background-color: rgb(187, 45, 59) !important;
+}
